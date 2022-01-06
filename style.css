@@ -160,5 +160,25 @@ footer{
     font-family: fantasy;
     font-weight: 400;
 }
-
-
+.last-part{
+    text-align: center;
+    height:100px;
+    width:500px;
+    border:1px solid gray;
+   box-shadow:10px 10px 12px brown;
+    border-radius: 10px;
+    padding:100px;
+    margin-left: 300px;
+   
+}
+.last-button{
+    background-color:rgb(26, 160, 194);
+    border:none;
+    border-radius: 5px;
+    color: white;
+    padding: 2px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    
+}
