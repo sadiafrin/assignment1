@@ -1,8 +1,17 @@
 body{
-    font-family: 'Poppins', sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.focus{
+    font-size: 50px;
+    font-weight: 900;
 }
 .color{
     color:crimson;
+}
+
+.side-line{
+   border-left-style:  solid;
+   border-left-color: rgb(7, 179, 58);
 }
 .button{
     background-color:rgb(26, 160, 194);
@@ -46,9 +55,14 @@ span{
 span{
     color:crimson;
 }
-h1{
+.goal{
     text-align: center;
+    font-size: 50px;
+    font-weight:bolder;
+    font-weight: 900;
 }
+
+
 .mission-1{
     width:250px;
     border:1px solid gray;
