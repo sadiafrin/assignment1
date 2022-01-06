@@ -5,7 +5,7 @@ body{
     color:crimson;
 }
 .button{
-    background-color:rgb(2, 71, 136);
+    background-color:rgb(26, 160, 194);
     border:none;
     border-radius: 5px;
     color: white;
@@ -13,6 +13,7 @@ body{
     text-align: center;
     text-decoration: none;
     font-size: 16px;
+    
   }
     
        
@@ -87,7 +88,31 @@ h1{
 .size-card{
     padding-left:5px;
     text-align: left;
+}
+    .self-development{
+        display:flex;
+        margin:0 auto;
+      
 
+    }
+.p-and-button{
+    text-align: left;
+    margin-left: 10%;
+}
+.button1{
+    background-color:rgb(26, 160, 194);
+    border:none;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    
+  
+    
+
+}
 
 
 
