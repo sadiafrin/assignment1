@@ -117,7 +117,27 @@ h1{
     width:450px;
     border-radius: 10px;
 }
+footer{
+    text-align: center;
+    border-color: black;
+    border-width: 100px;
+    background-color: black;
+    
+    
+}
+.end{
+    color:white;
+    font-weight: 800;
+    font-family: 'Dancing Script', cursive;
 
-
+}
+.end1{
+    color:white;
+}
+.twenty-two{
+    color:coral;
+    font-family: fantasy;
+    font-weight: 400;
+}
 
 
