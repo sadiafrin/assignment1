@@ -26,14 +26,20 @@ body{
 .half-width img{
     width:450px;
 } 
+.section-card{
+    text-align:center;
+   font-size: 20px;
+  
+   
+}  
+
 .algin{
     text-align: center;
 }
 
 span{
     color:salmon;
-}
-    
+
 
 
 
